@@ -1,0 +1,23 @@
+.filterWrp {
+  font-family: "Open Sans Condensed", arial, sans;
+  margin: 0 auto;
+}
+.filterTittle {
+  background-color: #2cbbbb85;
+  text-transform: uppercase;
+  text-align: center;
+  font-family: "Open Sans Condensed", sans-serif;
+  color: #111111e5;
+  font-size: 18px;
+  font-weight: 100;
+  padding: 20px;
+  width: 520px;
+  margin: 0 auto;
+}
+
+.noContactMessage {
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: red;
+}

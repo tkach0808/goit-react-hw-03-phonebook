@@ -1,0 +1,16 @@
+.filterInput {
+  box-sizing: border-box;
+  outline: none;
+  display: block;
+  padding: 7px;
+  border: none;
+  border: 2px solid #ddd;
+  background: transparent;
+  margin-bottom: 10px;
+  font: 16px Arial, Helvetica, sans-serif;
+  height: 45px;
+  text-align: center;
+  width: 560px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
